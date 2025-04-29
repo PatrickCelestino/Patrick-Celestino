@@ -42,4 +42,11 @@ Sou um entusiasta da programação com interesse em me solidificar no meio, aind
 
 ---
 
+### 🐍 Snake Game das Contribuições
+
+![snake gif](https://PatrickCelestino.github.io/github-snake/github-snake.svg)
+
+
+---
+
 Feito com ❤️ por Patrick Celestino 😉
