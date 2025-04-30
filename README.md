@@ -39,14 +39,7 @@ Sou um entusiasta da programação com interesse em me solidificar no meio, aind
 - 🔭 Atualmente estou participando do novo projeto em: Ford Enter
 - 🌱 Aprendendo mais sobre: HTML, CSS, Js, Git & Github
 - 💬 Sempre pronto para novas conexções
-
----
-
-### 🐍 Snake Game das Contribuições
-
-![snake gif](https://PatrickCelestino.github.io/github-snake/github-snake.svg)
-
-
+  
 ---
 
 Feito com ❤️ por Patrick Celestino 😉
